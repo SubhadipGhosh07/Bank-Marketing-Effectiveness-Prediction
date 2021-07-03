@@ -4,6 +4,9 @@
 
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
+![Screenshot (308)](https://user-images.githubusercontent.com/83903018/124348120-ca2fa780-dc05-11eb-90f9-d19ae5804ba4.png)
+
+
 ### Features of our dataset:
 
 #### Bank Client Data:
